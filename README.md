@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divaspant-dev&show_icons=true&locale=en&layout=compact" alt="divaspant-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divaspant-dev&show_icons=true&locale=en" alt="divaspant-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivasPant-dev&" alt="DivasPant-dev" /></p>
